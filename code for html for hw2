@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+
+<p id="Saturn" style="background-color: blue; font-style: oblique; font-size: 14px">This is my answer</p>
+
+<script src="hw_2.js"></script>
+
+
+</body>
+</html>
